@@ -15,7 +15,7 @@ global home "~/Dropbox/Data/debtlimits/"
 global raw "${home}rawdata/"
 global exports "${home}exports/"
 
-local begindate 1974
+local begindate 1962
 local finaldate 2012
 
 * IMPORTING A CROSSWALK FOR FIPS CODES, STATE NAMES, AND STATE ABBREVIATIONS
@@ -83,7 +83,7 @@ foreach x of varlist dl1-lim_other51 {
   bysort statefips (year): replace `x' = `x'[_n-1] if `x' == .
 }
 
-* Keeping overlapping data only (1974 to 2012)
+* Keeping overlapping data only (1962 to 2012)
 keep if year >= `begindate' & year <= `finaldate'
 
 merge m:1 statefips using `crosswalk', nogen update
