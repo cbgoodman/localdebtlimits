@@ -5,3 +5,7 @@ This replication package contains the Stata code and raw spreadsheets needed to 
 
 
 ## Contents of /rawdata/
+These are the spreadsheets called by the do-files above:
+* localdebtlimit_changes.xlsx - changes in local debt limits
+* localdebtref_changes.xlsx - changes in local bond referenda requirements
+* crosswalk.xlsx - state fips codes, census codes, names, and abbreviations
