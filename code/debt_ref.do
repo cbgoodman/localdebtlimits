@@ -13,7 +13,7 @@ clear all
 * The $home directory will need to be changed
 global home "~/Dropbox/Data/debtlimits/"
 global raw "${home}rawdata/"
-global exports "${home}/localdebtlimits/exports/"
+global exports "${home}exports/"
 
 local begindate 1962
 local finaldate 2012
