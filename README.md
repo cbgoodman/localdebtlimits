@@ -11,3 +11,6 @@ These are the spreadsheets called by the do-files above:
 * localdebtlimit_changes.xlsx - changes in local debt limits
 * localdebtref_changes.xlsx - changes in local bond referenda requirements
 * crosswalk.xlsx - state fips codes, census codes, names, and abbreviations
+
+## Source material
+Full legal citations for all included data can be found on the [wiki](https://github.com/cbgoodman/localdebtlimits/wiki) at the top of this page.
