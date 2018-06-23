@@ -1,5 +1,5 @@
 # Description
-This replication package contains the Stata code and raw spreadsheets needed to create the state-level local debt limitation and referendum dataset utilized in [Goodman (2017)](https://osf.io/by6uw/) and [Goodman and Leland (2017)](https://osf.io/5wn4c/).
+This replication package contains the Stata code and raw spreadsheets needed to create the state-level local debt limitation and referendum dataset utilized in [Goodman (2018)](https://dx.doi.org/10.1093/publius/pjx065) and [Goodman and Leland (2018)](https://osf.io/5wn4c/).
 
 ## Contents of /code/
 Run the following do-files to create the state-level extracts. You will need to change the ${home} directory in these do-files to match your directory setup. The running the code will update and replace the contents of the /exports/ and /release/ folders.
