@@ -14,3 +14,6 @@ These are the spreadsheets called by the do-files above:
 
 ## Source material
 Full legal citations for all included data can be found on the [wiki](https://github.com/cbgoodman/localdebtlimits/wiki) at the top of this page.
+
+## Bugs
+Please report any bugs or errors [here](https://github.com/cbgoodman/localdebtlimits/issues).
