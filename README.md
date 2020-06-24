@@ -1,4 +1,8 @@
-# State-imposed Local Government Debt Limitations and Referendum Requirements
+# State-Imposed Local Government Debt Limitations and Referendum Requirements
+
+* Last updated - `2017-11-17`
+* Jump to: [`code`](#contents-of-code) [`source-material`](#source-material) [`citation`](#citation)
+
 ----
 
 ## Description
